@@ -1,7 +1,12 @@
 # bigdata
 ### [MNIST](https://drive.google.com/file/d/1YAO_JI1bIScLM-phiQIsZCo3JCATLyMO/view?usp=sharing)
-### WordCloud
+### WordCloud & SNA
 ```{r}
-a <- c(70, 80, 85, 75, 90)
-b <- c(60, 100, 90, 65, 85)
+# 패키지 설치
+install.packages('NLP')
+install.packages('tm')
+install.packages('sna')
+install.packages('SnowballC')
+install.packages("wordcloud")
+install.packages("RColorBrewer")
 ```
