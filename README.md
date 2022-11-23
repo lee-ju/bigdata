@@ -10,3 +10,6 @@ install.packages('SnowballC')
 install.packages("wordcloud")
 install.packages("RColorBrewer")
 ```
+```r
+install.packages("RColorBrewer")
+```
