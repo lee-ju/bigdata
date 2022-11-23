@@ -1,7 +1,7 @@
 # bigdata
 ### [MNIST](https://drive.google.com/file/d/1YAO_JI1bIScLM-phiQIsZCo3JCATLyMO/view?usp=sharing)
 ### WordCloud & SNA
-```{r}
+```python
 # 패키지 설치
 install.packages('NLP')
 install.packages('tm')
